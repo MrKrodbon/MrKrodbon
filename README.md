@@ -7,7 +7,6 @@
   
 - 📫 How to reach me **eugenesoshin.resume@gmail.com**  
   
-- 📄 Here is my CV [https://drive.google.com/file/d/1L2DsOL5EP9FjpySJxAuZNk0Run66l2ny/view?usp=sharing](https://drive.google.com/file/d/1L2DsOL5EP9FjpySJxAuZNk0Run66l2ny/view?usp=sharing)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrodbon&layout=compact)
 
