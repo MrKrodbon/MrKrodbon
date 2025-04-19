@@ -3,7 +3,7 @@
   <img  align="center"  alt="GIF"  src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
   
   
-- 🌱 I’m currently learning **Node.js**  
+- 🌱 I’m currently learning **Next.js and React Native**  
   
 - 📫 How to reach me **eugenesoshin.resume@gmail.com**  
   
